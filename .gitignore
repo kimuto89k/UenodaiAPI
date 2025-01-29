@@ -1,0 +1,45 @@
+## ASP.NET Core & .NET ##
+# .NET Core build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (may still be relevant even with dotnet publish)
+publish/
+
+# User-specific files for Visual Studio
+.vs/
+.vscode/
+
+# ASP.NET Core Secrets Storage
+secrets/
+
+# Npm / Node.js
+node_modules/
+
+# JetBrains Rider files
+.idea/
+
+# Windows system files
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+
+# Windows-specific files and directories
+ehthumbs.db
