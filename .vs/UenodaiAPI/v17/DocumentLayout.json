@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|c:\\users\\kimuto\\source\\repos\\uenodaiapi\\uenodaiapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|solutionrelative:uenodaiapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|c:\\users\\kimuto\\source\\repos\\uenodaiapi\\uenodaiapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|solutionrelative:uenodaiapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|c:\\users\\kimuto\\source\\repos\\uenodaiapi\\uenodaiapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|solutionrelative:uenodaiapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|c:\\users\\kimuto\\source\\repos\\uenodaiapi\\uenodaiapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|solutionrelative:uenodaiapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|c:\\users\\kimuto\\source\\repos\\uenodaiapi\\uenodaiapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5754F4-BBC4-4040-B96C-6E40EE70A734}|UenodaiAPI\\UenodaiAPI.csproj|solutionrelative:uenodaiapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "UenodaiAPI\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "UenodaiAPI\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:07:26.376Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "UenodaiAPI\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Models\\Event.cs",
+              "RelativeToolTip": "UenodaiAPI\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:43:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UenodaiAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Models\\User.cs",
+              "RelativeToolTip": "UenodaiAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:45:41.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UenodaiAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UenodaiAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:43:19.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UenodaiAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kimuto\\source\\repos\\UenodaiAPI\\UenodaiAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UenodaiAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:41:15.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
