@@ -90,3 +90,5 @@ C:\Users\kimuto\source\repos\UenodaiAPI\UenodaiAPI\obj\Debug\net8.0\refint\Uenod
 C:\Users\kimuto\source\repos\UenodaiAPI\UenodaiAPI\obj\Debug\net8.0\UenodaiAPI.pdb
 C:\Users\kimuto\source\repos\UenodaiAPI\UenodaiAPI\obj\Debug\net8.0\UenodaiAPI.genruntimeconfig.cache
 C:\Users\kimuto\source\repos\UenodaiAPI\UenodaiAPI\obj\Debug\net8.0\ref\UenodaiAPI.dll
+C:\Users\kimuto\source\repos\UenodaiAPI\UenodaiAPI\obj\Debug\net8.0\UenodaiAPI.sourcelink.json
+C:\Users\kimuto\source\repos\UenodaiAPI\UenodaiAPI\bin\Debug\net8.0\Newtonsoft.Json.dll

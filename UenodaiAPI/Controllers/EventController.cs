@@ -48,10 +48,10 @@ namespace UenodaiAPI.Controllers
         [HttpPost]
         public IActionResult AddEvent(Event newEvent)
         {
-            // ストアドプロシージャに渡すパラメータ
             var param = new SqlParameter[]
             {
                 new SqlParameter("@TITLE", newEvent.TITLE),
+                new SqlParameter("@IMAGE", newEvent.IMAGE),
                 new SqlParameter("@PLACE", newEvent.PLACE),
                 new SqlParameter("@DETAIL", newEvent.DETAIL),
                 new SqlParameter("@BEGINDATETIME", newEvent.BEGINDATETIME),
@@ -59,9 +59,8 @@ namespace UenodaiAPI.Controllers
                 new SqlParameter("@UPDATERID", newEvent.UPDATERID)
             };
 
-            // ストアドプロシージャの実行
             var result = _context.Database.ExecuteSqlRaw(
-                "EXEC [dbo].[SP_T_EVENT_INSERT] @TITLE, @PLACE, @DETAIL, @BEGINDATETIME, @ENDDATETIME, @UPDATERID",
+                "EXEC [dbo].[SP_T_EVENT_INSERT] @TITLE, @IMAGE, @PLACE, @DETAIL, @BEGINDATETIME, @ENDDATETIME, @UPDATERID",
                 param);
 
             // 実行が成功した場合、新しく追加されたイベント情報を返す
